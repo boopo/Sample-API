@@ -6,11 +6,13 @@
 
 
 本地：
+
        pip install -r requirements.txt
    
        python manage.py runserver -r -d 
    
 Linux：
+
        pip3 install -r requirements.txt
    
        pip3 install gunicorn
